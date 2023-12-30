@@ -1,9 +1,3 @@
-## Data files for COMM2550 Data Project
-
-* This folder should contain the data files you have used in your analysis
-
-
-* You should update this README file to list and describe the files.
     1. per_game.csv: the basic data of Tyrese Maxey from season 20-21 to 23-24
     2. advanced.csv: the advanced data of Tyrese Maxey from seaon 20-21 to 23-24
     3. college_per_game.csv: the basic data of Tyrese Maxey in college
