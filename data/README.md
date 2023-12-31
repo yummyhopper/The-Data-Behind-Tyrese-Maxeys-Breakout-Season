@@ -24,9 +24,3 @@
     24. maxey_speed.csv: the speed on offense and defence of the NBA's top 50 distance cover-ers
     25. teams_transition_points.csv: The transition points of every team in the league by year since Maxey entered the league
     26. player_transition_points.csv: The transition points of the top 50 transition scorer by year since Maxey entered the league
-
-
-* You can also create additional sub-folders to better organize your data.
-    * For example, you could have a folder called `raw` or `orig` to contain the original data files you downloaded and then a folder called `final` or `clean` that contains versions of these data sheets that you have worked with to clean up missing data, to subset or merge etc.
-    
-    
