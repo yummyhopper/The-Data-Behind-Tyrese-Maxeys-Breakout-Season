@@ -3,7 +3,7 @@
 
 ##### *By Max Orenstein*
 
-<img src="img/Maxey_cover_image.jpg" width = "800" height = "800" />
+![](img/Maxey_cover_image.jpg)
 
 ### Introduction
 
@@ -53,11 +53,11 @@ Our data are mainly these two websites:
 
 Maxey's game has hit new heights, with almost every stat reaching his personal best, especially his points and assists.
 
-<img src="img/paseason.png" width = "150" height = "150" />
+![](img/paseason.png)
 
 Maxey in general has a very advanced position among all the players in the league. The chart below illustrates Maxey's league position in both points and assists per game, showcasing his elite standing among NBA players.The nearer to the upper-right point, the better basic offensive data the player has.  Only Trae Young, Luka Doncic, and Nikola Jokic outshine him in both categories. Impressive, considering Maxey is the second-in-command on his team, while the others are the primary stars.
 
-<img src="img/paleague.png" width= "400" height= "400"/>
+![](img/paleague.png)
 
 While his data explodes, let's dig into Maxey's game and see how **efficient** and **effective** he's been.. 
 
