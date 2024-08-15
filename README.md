@@ -3,7 +3,7 @@
 
 ##### *By Max Orenstein*
 
-![](img/Maxey_cover_image.jpg)
+![](Maxey_cover_image.jpg)
 
 ### Introduction
 
