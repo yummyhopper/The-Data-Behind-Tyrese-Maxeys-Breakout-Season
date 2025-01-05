@@ -1,7 +1,7 @@
 # The Data Behind Tyrese Maxey's Breakout Season
 ----
 
-##### *By Max Orenstein*
+##### *By Max Orenstein & Ryan (Yuzhe) Yao*
 
 ![](Maxey_cover_image.jpg)
 
